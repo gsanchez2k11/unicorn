@@ -70,6 +70,7 @@ include 'src/cabecera.php';                 //Incluimos la cabecera
                                 </div>
                             </div>
                         </div>-->
+                        
                         <div class="col-lg-2 mb-4">
 
                             <div class="card shadow mb-4">
