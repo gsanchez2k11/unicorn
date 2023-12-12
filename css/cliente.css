@@ -1,0 +1,49 @@
+.loader {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+/*	background: #E9CDE0;*/
+  opacity: 0.9;
+}
+
+.loader-content {
+    position: fixed;
+    left: 40%;
+    top: 20%;
+}
+
+.card.border-left-primary.shadow.h-100.py-2:hover {
+    cursor: pointer;
+}
+a.card:hover {
+    text-decoration: none;
+}
+
+.bg-gradient-barra {
+    background-color: #ff0099;
+    background-image: linear-gradient(
+180deg,#ff0099 10%,#b0032e 100%);
+    background-size: cover;
+		color: #fff !important
+}
+.loader-text-mini {
+    color: #fff;
+    text-align: center;
+    font-size: 1.4em;
+    padding-bottom: 4em;
+    /* position: relative; */
+}
+.text-futura {
+/*	color: #2ca5ce*/
+color: #ff0099;
+}
+.reportar-articulo {
+    cursor: pointer;
+}
+
+.reportar-articulo:hover {
+    color: red
+}

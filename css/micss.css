@@ -1,0 +1,48 @@
+.loader {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: #fff;
+  opacity: 0.9;
+}
+
+.loader-content {
+    position: fixed;
+    left: 40%;
+    top: 20%;
+}
+.loader-text {
+  text-align: center;
+}
+.card.border-left-primary.shadow.h-100.py-2:hover {
+    cursor: pointer;
+}
+a.card:hover {
+    text-decoration: none;
+}
+.texto-rojo {
+	color: red
+}
+.texto-oro {
+	color: #ffe449
+}
+.texto-plata {
+	color: #e3e5e4
+}
+.texto-bronce {
+	color: #b1703a
+}
+
+.abre-modal-pedido:hover{
+color:#36b9cc
+}
+.bg-naranja {
+background-color: orange;
+}
+.editable-text input {
+    width: 100% !important;
+
+}

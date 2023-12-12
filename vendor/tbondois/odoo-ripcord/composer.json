@@ -1,0 +1,35 @@
+{
+    "name": "tbondois/odoo-ripcord",
+    "description": "Ripoo : a PHP7 XML-RPC client handler for Odoo External API",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.0",
+        "ext-xmlrpc": "*",
+        "darkaonline/ripcord": "^0.1.6"
+    },
+    "require-dev": {
+        "kint-php/kint": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ripoo\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "readme": "README.md",
+    "homepage": "https://packagist.org/packages/tbondois/odoo-ripcord",
+    "authors": [
+        {   "name": "Thomas Bondois"
+        }
+    ],
+    "keywords": [
+        "Odoo",
+        "API",
+        "RPC",
+        "XML",
+        "xmlrpc",
+        "ripcord",
+        "Magento2",
+        "XML-RPC"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "root/unicorn",
+    "require": {
+        "econea/nusoap": "^0.9.11",
+        "mirakl/sdk-php-shop": "^1.12",
+        "google/apiclient": "^2.15.0",
+        "darkaonline/ripcord": "^0.1.7",
+        "tbondois/odoo-ripcord": "^1.6",
+        "atdev/rocket-chat": "~1.0"
+    }
+}

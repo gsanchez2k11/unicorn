@@ -1,0 +1,18 @@
+.fondo-cliente-fut {
+    background-color: #ff0099;
+    background-image: linear-gradient(180deg,#ff0099 10%,#b3006b 100%);
+    background-size: cover;
+}
+.bg-login-image {
+    background: url(http://grupodercont.es/unicorn/img/bay-horse-portrait.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.reportar-articulo {
+    cursor: pointer;
+}
+
+.reportar-articulo:hover {
+    color: #36b9cc!important
+}
